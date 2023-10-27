@@ -1,6 +1,9 @@
 # Analytics-project
-## Roleplay: The number of fradulent credit card transactions (FTs) happening is on the rise. I assume the role of an analyst in the bank tasked to come up with strategies to reduce the incidence of credit card scams based on available data.
-## Overall Recommendations:
+## Process 1: Problem Statement
+### Roleplay: The number of fradulent credit card transactions (FTs) happening is on the rise. I assume the role of an analyst in the bank tasked to come up with strategies to reduce the incidence of credit card scams based on available data.
+## Process 2: [Data Preperation](/Analytics%20Project.pdf)
+## Process 3: [Data Visualization](https://www.kaggle.com/datasets/dermisfit/fraud-transactions-dataset)
+## Process 4: Insights & Recommendations
   * Direct advertising resources/ campaigns towards cities which has the highest incidence of card owners involved in FTs (e.g. New York, Pennsylvania and Texas).
   * Allocate more manpower and resources to the handling and processing of FTs during peak months and hours.
   * Prioritize the analysis of suspicious transactions from high-risk categories (internet transactions, in-store grocery shopping) might improve the time taken to spot a fraudulent transaction.

@@ -1,4 +1,4 @@
-# Analytics-project
+# Analytics Project
 ## Process 1: Problem Statement
 ### Roleplay: The number of fradulent credit card transactions (FTs) happening is on the rise. I assume the role of an analyst in the bank tasked to come up with strategies to reduce the incidence of credit card scams based on available data.
 ## Process 2: [Data Preparation](/Analytics%20Project.pdf)
